@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="alterar">Alterar</string>
+    <string name="deletar">Deletar</string>
+    <string name="title_item_detail">Detalhe</string>
+	<string name="nome">Nome</string>
+	<string name="email">Email</string>
+	<string name="telefone">Telefone</string>
+	<string name="salvar">Salvar</string>
+    
+</resources>
