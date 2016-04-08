@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\layout\\activity_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_insert.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\layout\\activity_item_insert.xml"
+    },
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_twopane.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\layout\\activity_item_twopane.xml"
+    },
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_detail.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contato_detail.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\layout\\fragment_contato_detail.xml"
+    }
+]

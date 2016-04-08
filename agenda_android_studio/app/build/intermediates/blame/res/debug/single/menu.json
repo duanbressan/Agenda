@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\insert.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\menu\\insert.xml"
+    },
+    {
+        "merged": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete.xml",
+        "source": "D:\\Android Aplication to GitHub\\Agenda\\agenda_android_studio\\app\\src\\main\\res\\menu\\delete.xml"
+    }
+]

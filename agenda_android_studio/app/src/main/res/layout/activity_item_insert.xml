@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:id="@+id/activity_item_insert">
+
+    <EditText
+        android:id="@+id/edtNome"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="@string/nome" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/edtNome"
+        android:ems="10"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress" />
+    
+    <EditText
+        android:id="@+id/edtTelefone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/edtEmail"
+        android:ems="10"
+        android:hint="@string/telefone"
+        android:inputType="number" 
+        android:maxLength="8"/>
+
+</RelativeLayout>

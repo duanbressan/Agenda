@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adicionar">Adicionar</string>
+    <string name="alterar">Alterar</string>
+    <string name="app_name">Agenda</string>
+    <string name="deletar">Deletar</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="telefone">Telefone</string>
+    <string name="title_item_detail">Detalhe</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
